@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444070458 source:c:\users\priyansh soni\desktop\pec docs\programs\see\main.cpp
+	<iostream>
+	<algorithm>
+	<string.h>
+

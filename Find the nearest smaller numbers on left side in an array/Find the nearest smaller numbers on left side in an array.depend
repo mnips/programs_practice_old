@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1435405471 source:c:\users\priyansh soni\desktop\pec docs\data structures\find the nearest smaller numbers on left side in an array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1440480281 source:c:\users\priyansh soni\desktop\pec docs\programs\find the nearest smaller numbers on left side in an array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<stack>
+
